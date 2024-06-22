@@ -1,0 +1,35 @@
+[33mcommit 654d4895db57cbfe2830665bfb326db1855de2e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Fri Jun 21 18:32:03 2024 +0530
+
+    signup page create using shadcn
+
+[33mcommit 6e02ed4ca2aac0a63c9d4bf35a564df3c0afe194[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Thu Jun 20 17:01:39 2024 +0530
+
+    add message functionality
+
+[33mcommit 2cc055dceadcaa52d535d9ac5dbd0579c6521855[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Wed Jun 19 17:21:56 2024 +0530
+
+    correct missplacing of api folder,and little changes
+
+[33mcommit 354c913d0178a01dafbe1ae82196442b4b472db0[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Mon Jun 17 18:00:58 2024 +0530
+
+    Integrate NextAuth for authentication
+
+[33mcommit 585c8fee10c81579e87c8560f5c66f5c2b4b61f8[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Sun Jun 16 13:38:41 2024 +0530
+
+    model create, sigunup functionality create,use zod for schema validation and use resend to send emails
+
+[33mcommit 16a683bbced29c6bd6e3124998acfee86f4dd5f0[m
+Author: gauravtiwari2509 <gauravtiwari2509@gmail.com>
+Date:   Sun Jun 16 11:18:38 2024 +0530
+
+    Initial commit from Create Next App
