@@ -23,7 +23,7 @@ export const authOptions: NextAuthOptions = {
             ],
           });
           if (!user) {
-            throw new Error("no use found");
+            throw new Error("no user found");
           }
           if (!user.isVerified) {
             throw new Error("verify your account first");
